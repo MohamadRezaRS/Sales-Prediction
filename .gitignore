@@ -25,3 +25,7 @@ processed_data.csv
 .idea/
 .DS_Store
 Thumbs.db
+
+
+
+*.pdf
