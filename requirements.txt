@@ -1,0 +1,8 @@
+#Data manipulation and math
+
+pandas
+numpy
+
+#Machine learning modeling and evaluation
+
+scikit-learn

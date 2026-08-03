@@ -1,0 +1,27 @@
+#Python artifacts
+
+pycache/
+*.py[cod]
+*$py.class
+
+#Environments
+
+.env
+.venv/
+venv/
+env/
+ENV/
+
+#Datasets 
+
+*.csv
+train.csv
+store.csv
+processed_data.csv
+
+#IDE / OS files
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
